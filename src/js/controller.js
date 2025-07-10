@@ -16,9 +16,16 @@ const timeout = function (s) {
 
 async function showRecipe() {
   try {
+    const id = window.location.hash.slice(1);
+    console.log('ID de la receta:', id);
+
+    if (!id) return;
+
     renderSpinner(recipeContainer);
-    const resp = await fetch('https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886');
+
+    const resp = await fetch(`https://forkify-api.herokuapp.com/api/v2/recipes/${id}`);    
     const data = await resp.json();
+
     console.log('Response:', resp);
     console.log('Data:', data);
 
@@ -153,7 +160,7 @@ const renderSpinner = function (parentEl) {
 };
 
 
-showRecipe();
-
-
+['hashchange', 'load'].forEach(event => {
+  window.addEventListener(event, showRecipe);
+});
 
