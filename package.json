@@ -6,6 +6,7 @@
   "build": "parcel build index.html",
   "scripts": {
     "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist --no-optimize",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sergio Saucedo",
