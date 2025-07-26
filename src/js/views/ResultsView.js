@@ -24,6 +24,70 @@ class ResultsView extends View {
     </li>
   `;
   }
+
+  _generatePaginationButtons() {
+    const numPages = Math.ceil(
+      model.state.search.results.length / model.state.search.resultsPerPage
+    );
+    const currentPage = model.state.search.page;
+
+    // Página 1 y hay más páginas
+    if (currentPage === 1 && numPages > 1) {
+      return this._createNextButton(currentPage);
+    }
+
+    // Última página
+    if (currentPage === numPages && numPages > 1) {
+      return this._createPrevButton(currentPage);
+    }
+
+    // Página intermedia
+    if (currentPage < numPages) {
+      return `
+        ${this._createPrevButton(currentPage)}
+        ${this._createNextButton(currentPage)}
+      `;
+    }
+
+    // Solo 1 página
+    return '';
+  }
+
+  _createPrevButton(currentPage) {
+    return `
+      <button class="btn--inline pagination__btn--prev" data-goto="${
+        currentPage - 1
+      }">
+        <svg class="search__icon">
+          <use href="${icons}#icon-arrow-left"></use>
+        </svg>
+        <span>Page ${currentPage - 1}</span>
+      </button>
+    `;
+  }
+
+  _createNextButton(currentPage) {
+    return `
+      <button class="btn--inline pagination__btn--next" data-goto="${
+        currentPage + 1
+      }">
+        <span>Page ${currentPage + 1}</span>
+        <svg class="search__icon">
+          <use href="${icons}#icon-arrow-right"></use>
+        </svg>
+      </button>
+    `;
+  }
+
+  addHandlerClick(handler) {
+    this._parentElement.addEventListener('click', function (e) {
+      const btn = e.target.closest('.btn--inline');
+      if (!btn) return;
+
+      const goToPage = +btn.dataset.goto;
+      handler(goToPage);
+    });
+  }
 }
 
 export default new ResultsView();

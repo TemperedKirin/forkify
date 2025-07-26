@@ -1,5 +1,5 @@
 
-import { API_URL } from './views/config.js';
+import { API_URL, RES_PER_PAGE } from './views/config.js';
 import { getJSON } from './views/helpers.js';
 
 export const state = {
@@ -7,7 +7,18 @@ export const state = {
    search: {
     query: '',
     results: [], // Array para almacenar resultados
+    page: 1,
+    resultsPerPage: RES_PER_PAGE,
   },
+};
+//Método para resetear la búsqueda
+export const resetSearch = function() {
+  state.search = {
+    query: '',
+    results: [],
+    page: 1,
+    resultsPerPage: RES_PER_PAGE
+  };
 };
 
 export const loadSearchResults = async function(query) {
@@ -33,7 +44,7 @@ export const loadSearchResults = async function(query) {
     console.error(`${err} 💥💥💥💥`);
     throw err;
   };
-}
+};
 
 
 
@@ -57,3 +68,11 @@ export const loadRecipe = async function (id) {
   }
 };
 
+export const getSearchResultsPage = function(page = state.search.page) {
+  state.search.page = page; // Actualiza la página actual
+  
+  const start = (page - 1) * state.search.resultsPerPage; // 0, 10, 20...
+  const end = page * state.search.resultsPerPage; // 10, 20, 30...
+  
+  return state.search.results.slice(start, end);
+};

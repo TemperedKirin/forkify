@@ -1,9 +1,7 @@
-3679
+3680
 86C:\Users\L01481291\venv\Forkify\node_modules\@parcel\core\src\requests\AssetRequest.js133975143675676463 0
 108C:\Users\L01481291\venv\Forkify\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133975143695076215 0
 44C:\Users\L01481291\venv\Forkify\package.json133966714858084976 0
-55C:\Users\L01481291\venv\Forkify\node_modules\is-extglob133975143661157369 1
-70C:\Users\L01481291\venv\Forkify\node_modules\node-addon-api\napi-inl.h133975143667507377 0
 95C:\Users\L01481291\venv\Forkify\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133975143688966168 0
 91C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\cookie-store-api.js133975143687416169 0
 71C:\Users\L01481291\venv\Forkify\node_modules\@parcel\graph\src\index.js133975143670787419 0
@@ -22,7 +20,7 @@
 82C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\wasm-gc.js133975143743572440 0
 101C:\Users\L01481291\venv\Forkify\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133975143675456478 0
 59C:\Users\L01481291\venv\Forkify\node_modules\lmdb\README.md133975143690396170 0
-36C:\Users\L01481291\venv\Forkify\dist133975222974073713 1
+36C:\Users\L01481291\venv\Forkify\dist133980320200866944 1
 73C:\Users\L01481291\venv\Forkify\node_modules\sass\types\value\string.d.ts133975143684512356 0
 76C:\Users\L01481291\venv\Forkify\node_modules\source-map-js\lib\quick-sort.js133975143665027381 0
 58C:\Users\L01481291\venv\Forkify\node_modules\semver\ranges133975143677591553 1
@@ -32,7 +30,7 @@
 99C:\Users\L01481291\venv\Forkify\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src133975143682061565 1
 35C:\Users\L01481291\venv\Forkify\src133964781806325322 1
 76C:\Users\L01481291\venv\Forkify\node_modules\@parcel\error-overlay\.eslintrc133975143657297371 0
-54C:\Users\L01481291\venv\Forkify\src\js\views\config.js133966720031896125 0
+54C:\Users\L01481291\venv\Forkify\src\js\views\config.js133980314160542789 0
 80C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\_\_non_iterable_spread133975143698436187 1
 88C:\Users\L01481291\venv\Forkify\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133975143676036527 0
 51C:\Users\L01481291\venv\Forkify\node_modules\semver133975143677971554 1
@@ -97,8 +95,13 @@
 77C:\Users\L01481291\venv\Forkify\node_modules\@parcel\graph\test\Graph.test.js133975143670287374 0
 53C:\Users\L01481291\venv\Forkify\node_modules\escalade133975143667017375 1
 75C:\Users\L01481291\venv\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1133975143656687422 1
-57C:\Users\L01481291\venv\Forkify\dist\Forkify.f7626f62.css133975222973253731 0
+57C:\Users\L01481291\venv\Forkify\dist\Forkify.f7626f62.css133980314568006003 0
 53C:\Users\L01481291\venv\Forkify\src\sass\_header.scss133147587000000000 0
+63C:\Users\L01481291\venv\Forkify\src\js\views\PaginationViews.js133980317950959165 0
+71C:\Users\L01481291\venv\Forkify\node_modules\@parcel\graph\lib\types.js133975143671717379 0
+83C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\dist\unpacker\browsers.js133975143682001563 0
+98C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133975143693926175 0
+80C:\Users\L01481291\venv\Forkify\node_modules\fraction.js\examples\ratio-chain.js133975143668627375 0
 79C:\Users\L01481291\venv\Forkify\node_modules\@parcel\utils\test\input\sourcemap133975143685552578 1
 74C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\esm\_defaults.js133975143688026169 0
 100C:\Users\L01481291\venv\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133975143690866173 0
@@ -128,7 +131,7 @@
 103C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json133975143695876170 0
 69C:\Users\L01481291\venv\Forkify\node_modules\@parcel\packager-raw\src133975143660557378 1
 62C:\Users\L01481291\venv\Forkify\node_modules\fraction.js\tests133975143666517397 1
-52C:\Users\L01481291\venv\Forkify\src\js\controller.js133975220531128631 0
+52C:\Users\L01481291\venv\Forkify\src\js\controller.js133980320199185230 0
 65C:\Users\L01481291\venv\Forkify\node_modules\electron-to-chromium133975143668797377 1
 52C:\Users\L01481291\venv\Forkify\node_modules\@parcel133975143769852458 1
 65C:\Users\L01481291\venv\Forkify\node_modules\msgpackr-extract\bin133975143661647373 1
@@ -143,11 +146,11 @@
 70C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\package.json133975143748562486 0
 76C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\regions\HT.js133975143713796301 0
 104C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor133975143695036176 1
-47C:\Users\L01481291\venv\Forkify\src\js\model.js133975133053575335 0
+47C:\Users\L01481291\venv\Forkify\src\js\model.js133980320199195207 0
 83C:\Users\L01481291\venv\Forkify\node_modules\@parcel\events\test\Disposable.test.js133975143662797372 0
 96C:\Users\L01481291\venv\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c133975143677141558 0
 54C:\Users\L01481291\venv\Forkify\node_modules\type-fest133975143670017460 1
-44C:\Users\L01481291\venv\Forkify\src\js\views133975219866554726 1
+44C:\Users\L01481291\venv\Forkify\src\js\views133980312516721207 1
 87C:\Users\L01481291\venv\Forkify\node_modules\@parcel\core\lib\serializerCore.browser.js133975143690606177 0
 70C:\Users\L01481291\venv\Forkify\node_modules\@parcel\feature-flags\src133975143664327373 1
 58C:\Users\L01481291\venv\Forkify\node_modules\@parcel\cache133975143669347374 1
@@ -171,7 +174,7 @@
 60C:\Users\L01481291\venv\Forkify\node_modules\tslib\README.md133975143665987370 0
 76C:\Users\L01481291\venv\Forkify\node_modules\.bin\update-browserslist-db.cmd133975143749562443 0
 91C:\Users\L01481291\venv\Forkify\node_modules\lmdb\dependencies\lz4\lib\dll\example\Makefile133975143670537382 0
-59C:\Users\L01481291\venv\Forkify\src\js\views\ResultsView.js133975222970252124 0
+59C:\Users\L01481291\venv\Forkify\src\js\views\ResultsView.js133980314160542789 0
 72C:\Users\L01481291\venv\Forkify\node_modules\@parcel\transformer-raw\src133975143660407374 1
 77C:\Users\L01481291\venv\Forkify\node_modules\immutable\dist\immutable.js.flow133975143660157375 0
 53C:\Users\L01481291\venv\Forkify\node_modules\has-flag133975143662387375 1
@@ -288,6 +291,8 @@
 83C:\Users\L01481291\venv\Forkify\node_modules\type-fest\source\iterable-element.d.ts133975143670657399 0
 72C:\Users\L01481291\venv\Forkify\node_modules\@parcel\package-manager\lib133975143677341562 1
 54C:\Users\L01481291\venv\Forkify\node_modules\immutable133975143668797377 1
+55C:\Users\L01481291\venv\Forkify\node_modules\is-extglob133975143661157369 1
+70C:\Users\L01481291\venv\Forkify\node_modules\node-addon-api\napi-inl.h133975143667507377 0
 82C:\Users\L01481291\venv\Forkify\node_modules\@parcel\runtime-js\lib\helpers\worker133975143676176463 1
 52C:\Users\L01481291\venv\Forkify\node_modules\is-glob133975143661117374 1
 80C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\woff2.js133975143745912440 0
@@ -548,7 +553,7 @@
 92C:\Users\L01481291\venv\Forkify\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js133975143670957374 0
 75C:\Users\L01481291\venv\Forkify\node_modules\update-browserslist-db\LICENSE133975143656507373 0
 78C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\mp3.js133975143728106305 0
-61C:\Users\L01481291\venv\Forkify\dist\Forkify.f7626f62.css.map133975222973413725 0
+61C:\Users\L01481291\venv\Forkify\dist\Forkify.f7626f62.css.map133980314568084269 0
 100C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133975143697766241 0
 81C:\Users\L01481291\venv\Forkify\node_modules\fraction.js\examples\tape-measure.js133975143669337377 0
 86C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\textencoder.js133975143739246492 0
@@ -1507,10 +1512,10 @@
 94C:\Users\L01481291\venv\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c133975143675246495 0
 94C:\Users\L01481291\venv\Forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133975143666847389 0
 94C:\Users\L01481291\venv\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133975143666377376 0
-61C:\Users\L01481291\venv\Forkify\node_modules\dotenv\config.js133975143660367374 0
-93C:\Users\L01481291\venv\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133975143667527409 0
 76C:\Users\L01481291\venv\Forkify\node_modules\@parcel\utils\src\bundle-url.js133975143666327369 0
 76C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\regions\CK.js133975143686018762 0
+61C:\Users\L01481291\venv\Forkify\node_modules\dotenv\config.js133975143660367374 0
+93C:\Users\L01481291\venv\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133975143667527409 0
 92C:\Users\L01481291\venv\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h133975143686516204 0
 74C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\src\_type_of.mjs133975143709786346 0
 76C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\regions\AG.js133975143667797402 0
@@ -1681,10 +1686,6 @@
 77C:\Users\L01481291\venv\Forkify\node_modules\fraction.js\examples\egyptian.js133975143661697370 0
 82C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\_\_ts_param\package.json133975143700216173 0
 86C:\Users\L01481291\venv\Forkify\node_modules\fraction.js\examples\hesse-convergence.js133975143667737423 0
-71C:\Users\L01481291\venv\Forkify\node_modules\@parcel\graph\lib\types.js133975143671717379 0
-83C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\dist\unpacker\browsers.js133975143682001563 0
-98C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133975143693926175 0
-80C:\Users\L01481291\venv\Forkify\node_modules\fraction.js\examples\ratio-chain.js133975143668627375 0
 78C:\Users\L01481291\venv\Forkify\node_modules\fraction.js\examples\valueOfPi.js133975143670017460 0
 81C:\Users\L01481291\venv\Forkify\node_modules\@parcel\core\lib\loadParcelPlugin.js133975143683815698 0
 77C:\Users\L01481291\venv\Forkify\node_modules\fraction.js\dist\fraction.min.js133975143665907375 0
@@ -1973,7 +1974,7 @@
 76C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\regions\MG.js133975143727446321 0
 76C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\regions\MK.js133975143727676307 0
 76C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\regions\ML.js133975143727746317 0
-47C:\Users\L01481291\venv\Forkify\dist\index.html133975143922051635 0
+47C:\Users\L01481291\venv\Forkify\dist\index.html133980314565927884 0
 76C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\regions\MM.js133975143727886305 0
 76C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\regions\MN.js133975143727936363 0
 93C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\css-initial-letter.js133975143693946167 0
@@ -2153,7 +2154,7 @@
 92C:\Users\L01481291\venv\Forkify\node_modules\@parcel\core\test\fixtures\config-node-pipeline133975143663797371 1
 69C:\Users\L01481291\venv\Forkify\node_modules\@swc\helpers\esm\_jsx.js133975143690296171 0
 96C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\credential-management.js133975143687766223 0
-60C:\Users\L01481291\venv\Forkify\dist\Forkify.4a59a05f.js.map133975222973543805 0
+60C:\Users\L01481291\venv\Forkify\dist\Forkify.4a59a05f.js.map133980320200827117 0
 106C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\cross-document-view-transitions.js133975143687816170 0
 94C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\input-email-tel-url.js133975143720316304 0
 82C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\pointer.js133975143732106046 0
@@ -2557,7 +2558,7 @@
 85C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\websockets.js133975143745212505 0
 107C:\Users\L01481291\venv\Forkify\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133975143694526180 0
 86C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\will-change.js133975143745752436 0
-57C:\Users\L01481291\venv\Forkify\dist\favicon.8b2f57bf.png133975222973253731 0
+57C:\Users\L01481291\venv\Forkify\dist\favicon.8b2f57bf.png133980314565788351 0
 79C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\woff.js133975143745872445 0
 85C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\word-break.js133975143745952474 0
 83C:\Users\L01481291\venv\Forkify\node_modules\caniuse-lite\data\features\wordwrap.js133975143746022458 0
@@ -3674,7 +3675,7 @@
 60C:\Users\L01481291\venv\Forkify\node_modules\.bin\parcel.ps1133975143749482444 0
 54C:\Users\L01481291\venv\Forkify\node_modules\.bin\sass133975143749512461 0
 56C:\Users\L01481291\venv\Forkify\node_modules\.bin\semver133975143749522444 0
-56C:\Users\L01481291\venv\Forkify\dist\Forkify.4a59a05f.js133975222973413725 0
-55C:\Users\L01481291\venv\Forkify\dist\icons.21bad73c.svg133975222973253731 0
-55C:\Users\L01481291\venv\Forkify\dist\icons.7bd9dd61.svg133975222973253731 0
-54C:\Users\L01481291\venv\Forkify\dist\logo.726d37a8.png133975222973723711 0
+56C:\Users\L01481291\venv\Forkify\dist\Forkify.4a59a05f.js133980320200687559 0
+55C:\Users\L01481291\venv\Forkify\dist\icons.21bad73c.svg133980314565927884 0
+55C:\Users\L01481291\venv\Forkify\dist\icons.7bd9dd61.svg133980314566681185 0
+54C:\Users\L01481291\venv\Forkify\dist\logo.726d37a8.png133980314565878039 0
